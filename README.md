@@ -4,10 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I'm a Frontend Developer working mainly in Vue.js. I also work with Vuex state management and SSR Nuxt framework. My goal for 2023 is to learn React.js and TS ⚛️. Beyond programming I'm passionate about photography and videography - mainly car content 🏎️ You can check my photos on my IG: @majkelo\_productions
-
 * 🌍  I'm based in Poznań, Poland
-* ✉️  You can contact me at [mwolny98@interia.pl](mailto:mwolny98@interia.pl)
+* ✉️  You can contact me at [mwolny.business@gmail.com](mailto:mwolny.business@gmail.com)
 
 ### Skills
 
